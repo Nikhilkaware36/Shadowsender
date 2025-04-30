@@ -10,7 +10,7 @@ This tool is developed strictly for educational and demonstration purposes only.
 
 🚀 Introduction
 
-ShadowSender allows you to send anonymous scare mails using either saved SMTP credentials or saved email credentials (like Gmail).
+ShadowSender allows you to send anonymous scare mails using either saved SMTP credentials or saved email credentials (like Gmail,protonmail , etc).
 
 Perfect for:
 
