@@ -1,0 +1,6 @@
+login/my-mails.txt
+login/my-smtp.txt
+__pycache__/
+*.pyc
+*.log
+.env
