@@ -1,0 +1,2 @@
+email = <enter your temp mail >
+password = <enter your password>
